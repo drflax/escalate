@@ -1,0 +1,646 @@
+# Translation of Plugins - Custom Login Page Customizer &#8211; Login Designer - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Custom Login Page Customizer &#8211; Login Designer - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-02-23 13:19:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Custom Login Page Customizer &#8211; Login Designer - Stable (latest release)\n"
+
+#. Author URI of the plugin
+#: login-designer.php
+msgid "https://logindesigner.com/"
+msgstr "https://logindesigner.com/"
+
+#. Author of the plugin
+#: login-designer.php
+msgid "LoginDesigner"
+msgstr "LoginDesigner"
+
+#. translators: Number of years
+#: includes/admin/class-login-designer-feedback.php:88
+msgid "%s years"
+msgstr "%s ans"
+
+#: includes/admin/class-login-designer-feedback.php:90
+msgid "a year"
+msgstr "une année"
+
+#. translators: Number of weeks
+#: includes/admin/class-login-designer-feedback.php:97
+msgid "%s weeks"
+msgstr "%s semaines"
+
+#: includes/admin/class-login-designer-feedback.php:99
+msgid "a week"
+msgstr "une semaine"
+
+#. translators: Number of days
+#: includes/admin/class-login-designer-feedback.php:106
+msgid "%s days"
+msgstr "%s jours"
+
+#: includes/admin/class-login-designer-feedback.php:108
+msgid "a day"
+msgstr "un jour"
+
+#. translators: Number of hours
+#: includes/admin/class-login-designer-feedback.php:115
+msgid "%s hours"
+msgstr "%s heures"
+
+#: includes/admin/class-login-designer-feedback.php:117
+msgid "an hour"
+msgstr "une heure"
+
+#. translators: Number of minutes
+#: includes/admin/class-login-designer-feedback.php:124
+msgid "%s minutes"
+msgstr "%s minutes"
+
+#: includes/admin/class-login-designer-feedback.php:126
+msgid "a minute"
+msgstr "une minute"
+
+#. translators: Number of seconds
+#: includes/admin/class-login-designer-feedback.php:133
+msgid "%s seconds"
+msgstr "%s secondes"
+
+#: includes/admin/class-login-designer-feedback.php:135
+msgid "a second"
+msgstr "une seconde"
+
+#: includes/admin/class-login-designer-feedback.php:271
+msgid "Login Designer WordPress Plugin"
+msgstr "Extension WordPress Login Designer"
+
+#: includes/admin/class-login-designer-feedback.php:274
+msgid "Are you enjoying Login Designer?"
+msgstr "Aimez-vous Login Designer ?"
+
+#. translators: 1. Name, 2. Time
+#: includes/admin/class-login-designer-feedback.php:277
+msgid "You have been using %1$s for %2$s now! Mind leaving a quick review and let me know know what you think of the plugin? I'd really appreciate it!"
+msgstr "Vous utilisez %1$s depuis %2$s maintenant ! Suffisamment pour me dire ce que vous pensez de l’extension ? J’apprécierais vraiment !"
+
+#: includes/admin/class-login-designer-feedback.php:281
+msgid "Leave a Review"
+msgstr "Laisser un avis"
+
+#. Plugin Name of the plugin
+#: login-designer.php includes/admin/class-login-designer-feedback.php:311
+#: includes/class-login-designer-customizer.php:125
+#: includes/class-login-designer-theme-template.php:62 login-designer.php:222
+#: login-designer.php:248 login-designer.php:278
+msgid "Login Designer"
+msgstr "Login Designer"
+
+#. translators: 1: Name of the plugin
+#: includes/admin/class-login-designer-notices.php:73
+msgid "<b>The %s page may not be removed.</b> This page is used for login page styling within the Customizer."
+msgstr "<b>La page %s ne peut pas être supprimée.</b> Cette page est utilisée pour le style de la page de connexion dans l’outil de personnalisation."
+
+#: includes/class-login-designer-brand.php:127
+msgid "Powered by"
+msgstr "Propulsé par"
+
+#: includes/class-login-designer-brand.php:128
+msgid "Get Login Designer today"
+msgstr "Obtenez Login Designer dès aujourd’hui"
+
+#: includes/class-login-designer-brand.php:345
+msgid "Please define default parameters in the form of an array."
+msgstr "Veuillez définir les paramètres par défaut sous la forme d’un tableau."
+
+#: includes/class-login-designer-brand.php:350
+msgid "Please define an SVG icon filename."
+msgstr "Veuillez définir un nom pour l’icône SVG."
+
+#: includes/class-login-designer-customizer-scripts.php:204
+msgid "Install New Template"
+msgstr "Installer un nouveau modèle"
+
+#: includes/class-login-designer-customizer-scripts.php:205
+#: includes/controls/class-login-designer-file-import-button-control.php:87
+msgid "Close"
+msgstr "Fermé"
+
+#: includes/class-login-designer-customizer-scripts.php:206
+msgid "Attention! You are attempting to reset all custom styling added to Login Designer. Please note that this action is irreversible. Proceed?"
+msgstr "Attention ! Vous essayez de réinitialer tous les styles personnalisés ajoutés à Login Designer. Veuillez noter que cette action est irréversible. Continuer ?"
+
+#: includes/class-login-designer-customizer.php:136
+msgid "Styles"
+msgstr "Styles"
+
+#: login-designer.php:534
+msgid "Settings"
+msgstr "Réglages"
+
+#: includes/class-login-designer-customizer.php:245 login-designer.php:610
+#: login-designer.php:651
+msgid "Extensions"
+msgstr "Extensions"
+
+#: includes/class-login-designer-customizer.php:246
+msgid "Discover Add-ons"
+msgstr "Découvrez les modules"
+
+#: includes/class-login-designer-customizer.php:380
+msgid "No Repeat"
+msgstr "Aucune répétition"
+
+#: includes/class-login-designer-customizer.php:381
+msgid "Tile"
+msgstr "Mosaïque"
+
+#: includes/class-login-designer-customizer.php:382
+msgid "Tile Horizontally"
+msgstr "Mosaïque horizontale"
+
+#: includes/class-login-designer-customizer.php:383
+msgid "Tile Vertically"
+msgstr "Mosaïque verticale"
+
+#: includes/class-login-designer-customizer.php:386
+msgid "Auto"
+msgstr "Auto"
+
+#: includes/class-login-designer-customizer.php:387
+msgid "Cover"
+msgstr "Couvrir"
+
+#: includes/class-login-designer-customizer.php:388
+msgid "Contain"
+msgstr "Contient"
+
+#: includes/class-login-designer-customizer.php:391
+msgid "Left Top"
+msgstr "En haut à gauche"
+
+#: includes/class-login-designer-customizer.php:393
+msgid "Left Bottom"
+msgstr "En bas à gauche"
+
+#: includes/class-login-designer-customizer.php:394
+msgid "Right Top"
+msgstr "En haut à droite"
+
+#: includes/class-login-designer-customizer.php:396
+msgid "Right Bottom"
+msgstr "En bas à droite"
+
+#: includes/class-login-designer-customizer.php:397
+msgid "Center Top"
+msgstr "Centré en haut"
+
+#: includes/class-login-designer-customizer.php:399
+msgid "Center Bottom"
+msgstr "Centré en bas"
+
+#: includes/class-login-designer-customizer.php:402
+msgid "Fixed"
+msgstr "Fixé"
+
+#: includes/class-login-designer-customizer.php:417
+msgid "Default"
+msgstr "Par défaut"
+
+#. translators: 1: Name of this site
+#: includes/class-login-designer-frontend-settings.php:39
+msgid "Log in to %s"
+msgstr "Connexion à %s"
+
+#. translators: 1: Name of this plugin
+#: includes/install.php:135
+msgid "<p>This page is used by %1$s to preview the login form in the Customizer.</p>"
+msgstr "<p>Cette page est utilisée par %1$s pour prévisualiser le formulaire de connexion dans l’outil de personnalisation.</p>"
+
+#: includes/install.php:141
+msgctxt "Page slug"
+msgid "login-designer"
+msgstr "login-designer"
+
+#: includes/install.php:142
+msgctxt "Page title"
+msgid "Login Designer"
+msgstr "Login Designer"
+
+#: includes/settings/background.php:67 includes/settings/pp-background.php:67
+msgid "Background Gallery"
+msgstr "Galerie d’arrière-plan"
+
+#: includes/settings/background.php:68 includes/settings/pp-background.php:68
+msgid "Pick a background image from our curated collection of beautiful images."
+msgstr "Choisissez une image d’arrière-plan dans notre collection de belles images."
+
+#: includes/settings/background.php:91 includes/settings/pp-background.php:90
+msgid "Repeat"
+msgstr "Répéter"
+
+#: includes/settings/background.php:151 includes/settings/below.php:114
+#: includes/settings/branding.php:107 includes/settings/logo.php:144
+#: includes/settings/pp-background.php:150
+#: includes/settings/pp-form-above-bellow.php:94
+#: includes/settings/pp-labels.php:114 includes/settings/pp-remember.php:93
+#: includes/settings/remember.php:93
+msgid "Position"
+msgstr "Position"
+
+#: includes/settings/background.php:172 includes/settings/below.php:92
+#: includes/settings/button.php:361 includes/settings/fields.php:413
+#: includes/settings/labels.php:159 includes/settings/pp-background.php:171
+#: includes/settings/pp-button.php:362 includes/settings/pp-fields.php:385
+#: includes/settings/pp-form-above-bellow.php:123
+#: includes/settings/pp-labels.php:142 includes/settings/pp-remember.php:121
+#: includes/settings/remember.php:121
+msgid "Color"
+msgstr "Couleur du texte"
+
+#: includes/settings/below.php:21
+msgid "Below Form"
+msgstr "Sous le formulaire"
+
+#: includes/settings/below.php:22
+msgid "Modify elements below the login form."
+msgstr "Modifier les éléments sous le formulaire de connexion."
+
+#: includes/settings/below.php:42 includes/settings/button.php:311
+#: includes/settings/fields.php:363 includes/settings/labels.php:80
+#: includes/settings/pp-button.php:312
+#: includes/settings/pp-form-above-bellow.php:41
+#: includes/settings/pp-labels.php:63 includes/settings/pp-remember.php:42
+#: includes/settings/remember.php:42
+msgid "Font"
+msgstr "Police"
+
+#: includes/settings/below.php:142
+msgid "Lost Password"
+msgstr "Mot de passe oublié"
+
+#: includes/settings/below.php:165
+msgid "Back To"
+msgstr "Retour à"
+
+#: includes/class-login-designer-customizer.php:154
+#: includes/settings/branding.php:21
+msgid "Branding"
+msgstr "Marque"
+
+#: includes/settings/branding.php:22
+msgid "Show some love and add a Powered by Login Designer badge to your login page."
+msgstr "Montrez un peu d’amour et ajoutez un badge Propulsé par Login Designer à votre page de connexion."
+
+#: includes/settings/branding.php:43 includes/settings/google-recaptcha.php:44
+#: includes/settings/language-switcher.php:44
+msgid "Enable"
+msgstr "Activé"
+
+#: includes/settings/branding.php:66 includes/settings/button.php:290
+#: includes/settings/fields.php:342 includes/settings/pp-button.php:291
+#: includes/settings/pp-fields.php:335
+msgid "Text"
+msgstr "Texte"
+
+#: includes/settings/branding.php:87 includes/settings/logo.php:21
+#: includes/settings/pp-logo.php:23
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/settings/branding.php:110
+msgid "Bottom Left"
+msgstr "Inférieur gauche"
+
+#: includes/settings/branding.php:111
+msgid "Bottom Right"
+msgstr "En bas et à droite"
+
+#: includes/settings/branding.php:112
+msgid "Bottom Middle"
+msgstr "Au centre en bas"
+
+#: includes/settings/branding.php:113
+msgid "Upper Right"
+msgstr "En haut à droite"
+
+#: includes/settings/button.php:21
+msgid "Button"
+msgstr "Bouton"
+
+#: includes/settings/button.php:22
+msgid "Customize the full display appearance of the login submit button."
+msgstr "Personnaliser l’apparence complète du bouton de connexion."
+
+#: includes/settings/button.php:43 includes/settings/checkbox.php:72
+#: includes/settings/fields.php:43 includes/settings/form.php:43
+#: includes/settings/pp-button.php:44 includes/settings/pp-checkbox.php:73
+#: includes/settings/pp-form.php:45
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: includes/settings/button.php:65 includes/settings/checkbox.php:94
+#: includes/settings/fields.php:65 includes/settings/pp-button.php:66
+#: includes/settings/pp-checkbox.php:95 includes/settings/pp-fields.php:67
+msgid "Border"
+msgstr "Frontière"
+
+#: includes/settings/button.php:93 includes/settings/checkbox.php:122
+#: includes/settings/fields.php:93 includes/settings/pp-button.php:94
+#: includes/settings/pp-checkbox.php:123 includes/settings/pp-fields.php:94
+msgid "Border Color"
+msgstr "Couleur de la bordure"
+
+#: includes/settings/button.php:144 includes/settings/fields.php:173
+#: includes/settings/pp-button.php:145 includes/settings/pp-fields.php:172
+msgid "Padding Top"
+msgstr "Marge interne haut"
+
+#: includes/settings/button.php:173 includes/settings/fields.php:202
+#: includes/settings/pp-button.php:174 includes/settings/pp-fields.php:200
+msgid "Padding Bottom"
+msgstr "Marge interne en bas"
+
+#: includes/settings/button.php:202 includes/settings/checkbox.php:144
+#: includes/settings/fields.php:231 includes/settings/form.php:65
+#: includes/settings/pp-button.php:203 includes/settings/pp-checkbox.php:145
+#: includes/settings/pp-fields.php:228 includes/settings/pp-form.php:67
+msgid "Radius"
+msgstr "Rayon"
+
+#: includes/settings/button.php:231 includes/settings/fields.php:260
+#: includes/settings/form.php:94 includes/settings/pp-button.php:232
+#: includes/settings/pp-fields.php:256 includes/settings/pp-form.php:96
+msgid "Shadow"
+msgstr "Ombre"
+
+#: includes/settings/button.php:260 includes/settings/fields.php:289
+#: includes/settings/form.php:123 includes/settings/pp-button.php:261
+#: includes/settings/pp-fields.php:284 includes/settings/pp-form.php:125
+msgid "Shadow Opacity"
+msgstr "Opacité de l’ombre"
+
+#: includes/settings/button.php:291 includes/settings/pp-button.php:292
+msgid "Change the button font, color and size."
+msgstr "Modifier la police du bouton, la couleur et la taille."
+
+#: includes/settings/checkbox.php:22
+msgid "Customize the Remember Me checkbox input element on the login form."
+msgstr "Personnaliser la case à cocher de « Se souvenir de moi » sur le formulaire de connexion."
+
+#: includes/settings/fields.php:21 includes/settings/pp-fields.php:23
+#: includes/settings/pp-fields.php:45
+msgid "Fields"
+msgstr "Champs"
+
+#: includes/settings/fields.php:22
+msgid "Customize the full display appearance of the login form input fields."
+msgstr "Personnalisez l’apparence complète des champs d’entrée du formulaire de connexion."
+
+#: includes/settings/fields.php:115 includes/settings/pp-fields.php:116
+msgid "Margin Bottom"
+msgstr "Marge inférieure"
+
+#: includes/settings/fields.php:317 includes/settings/pp-fields.php:311
+msgid "Shadow Inset"
+msgstr "Ombre à l’intérieur"
+
+#: includes/settings/fields.php:343 includes/settings/pp-fields.php:336
+msgid "Change the text field font, color and size."
+msgstr "Modifiez la police, la couleur et la taille du champ de texte."
+
+#: includes/settings/form.php:21
+msgid "Form"
+msgstr "Formulaire"
+
+#: includes/settings/form.php:22
+msgid "Easily customize the login form wrapper default styling."
+msgstr "Personnalisez facilement le style par défaut du formulaire de connexion."
+
+#: includes/settings/pp-form.php:154
+msgid "Side Padding"
+msgstr "Marge intérieure latérale"
+
+#: includes/settings/form.php:180 includes/settings/pp-form.php:182
+msgid "Transparent"
+msgstr "Transparent"
+
+#: includes/settings/form.php:204 includes/settings/pp-form.php:206
+msgid "Vertical Padding"
+msgstr "Marge interne verticale"
+
+#: includes/settings/form.php:233 includes/settings/logo.php:86
+#: includes/settings/pp-form.php:235
+msgid "Width"
+msgstr "Largeur"
+
+#: includes/settings/labels.php:21 includes/settings/pp-labels.php:23
+msgid "Labels"
+msgstr "Libellés"
+
+#: includes/settings/labels.php:22
+msgid "Modify the text labels and style them however you like."
+msgstr "Modifiez les libellés de texte et stylez-les comme vous le souhaitez."
+
+#: includes/settings/license.php:39
+msgid "License"
+msgstr "Licence"
+
+#. translators: 1: Opening link, 2: Closing link
+#: includes/settings/license.php:41
+msgid "Enter a %1$slicense key%2$s to enable remote updates, unlock premium templates and activate professional extensions."
+msgstr "Entrez une %1$sclé de licence%2$s pour activer les mises à jour à distance, déverrouiller les modèles Premium et activer les extensions PRO."
+
+#: includes/settings/logo.php:22
+msgid "Add your own logo. Logos will display at 50% height and width to account for retina devices. Modify the height and width below."
+msgstr "Ajoutez votre propre logo. Les logos s’afficheront à 50 % de hauteur et de largeur pour tenir compte des dispositifs de rétine. Modifier la hauteur et la largeur ci-dessous."
+
+#: includes/settings/logo.php:62 includes/settings/pp-logo.php:64
+msgid "URL"
+msgstr "URL"
+
+#: includes/settings/logo.php:63 includes/settings/pp-logo.php:65
+msgid "Select a page for your logo to link to. This is typically your site's home page."
+msgstr "Sélectionner la page vers laquelle votre logo sera relié. Il s’agit généralement de la page d’accueil de votre site."
+
+#: includes/settings/logo.php:115
+msgid "Height"
+msgstr "Hauteur"
+
+#: includes/settings/logo.php:172 includes/settings/pp-logo.php:127
+msgid "Disable Logo"
+msgstr "Désactiver le logo"
+
+#: includes/settings/pp-remember.php:22 includes/settings/remember.php:21
+msgid "Remember"
+msgstr "Se souvenir"
+
+#: includes/settings/remember.php:22
+msgid "Easily customize the Remember Me element on the login form."
+msgstr "Personnalisez facilement l’élément « Se souvenir de moi » sur le formulaire de connexion."
+
+#. translators: Login screen title. 1: Login screen name, 2: Network or site
+#. name
+#: includes/template-login-designer.php:54
+msgid "%1$s &lsaquo; %2$s &#8212; WordPress"
+msgstr "%1$s &lsaquo; %2$s &#8212; WordPress"
+
+#: includes/template-login-designer.php:109
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: includes/template-login-designer.php:110
+msgid "Powered by WordPress"
+msgstr "Propulsé par WordPress"
+
+#: includes/template-login-designer.php:158
+msgid "Click here to upload a background image, choose from the gallery and set a background color."
+msgstr "Cliquez ici pour téléverser une image d’arrière-plan, choisir parmi la galerie et définir une couleur de fond."
+
+#: includes/template-login-designer.php:160
+msgid "Click here to select a display template for your login page."
+msgstr "Cliquez ici pour sélectionner un modèle d’affichage pour votre page de connexion."
+
+#: includes/template-login-designer.php:164
+msgid "Click on the logo below to upload your own and set the image's height and width."
+msgstr "Cliquez sur le logo ci-dessous pour téléverser votre propre image et définir sa hauteur et sa largeur."
+
+#: includes/template-login-designer.php:203
+msgid "Show Password"
+msgstr "Afficher le mot de passe"
+
+#: includes/template-login-designer.php:219
+#: includes/template-password-protected.php:111
+msgid "Remember Me"
+msgstr "Se souvenir de moi"
+
+#: includes/template-login-designer.php:234
+msgid "Click on the elements below the form to modify each one."
+msgstr "Cliquez sur les éléments ci-dessous le formulaire pour modifier chacun d’entre-eux."
+
+#: includes/template-login-designer.php:241
+msgid "Register"
+msgstr "S’inscrire"
+
+#. translators: %s: site title
+#: includes/template-login-designer.php:255
+msgctxt "site"
+msgid "&larr; Back to %s"
+msgstr "&larr; Retour au %s"
+
+#: login-designer.php:88 login-designer.php:99
+msgid "Something went wrong."
+msgstr "Quelque chose s’est mal passé."
+
+#. translators: Name of this plugin
+#: login-designer.php:454
+msgid "<p>This page is used by <a href=\"%1$s\">%2$s</a> to preview the login forms in the Customizer. Please don't delete this page. Thanks!</p>"
+msgstr "<p>Cette page est utilisée par <a href=\"%1$s\">%2$s</a> pour prévisualiser les formulaires de connexion dans l’outil de personnalisation. Veuillez ne pas supprimer cette page. Merci !</p>"
+
+#: login-designer.php:548
+msgid "Support"
+msgstr "Support"
+
+#: includes/class-login-designer-customizer.php:584
+#: includes/class-login-designer-customizer.php:597
+#: includes/class-login-designer-customizer.php:610
+#: includes/class-login-designer-customizer.php:623 login-designer.php:560
+msgid "Pro"
+msgstr "Pro"
+
+#. Plugin URI of the plugin
+#: login-designer.php
+msgid "https://logindesigner.com"
+msgstr "https://logindesigner.com"
+
+#. Description of the plugin
+#: login-designer.php
+msgid "The easiest way to completely customize your WordPress login page. Create stunning login templates in seconds with the most beautiful and elegant login customizer WordPress plugin."
+msgstr "La façon la plus simple de personnaliser complètement votre page de connexion WordPress. Créez de superbes modèles de connexion en quelques secondes avec l’extension WordPress la plus belle et la plus élégante de personnalisation de connexion."
+
+#: includes/class-login-designer-customizer-output.php:112
+#: includes/template-login-designer.php:181
+msgid "Username or Email Address"
+msgstr "Identifiant ou adresse électronique"
+
+#: includes/admin/class-login-designer-feedback.php:282
+msgid "No thanks / I already have"
+msgstr "Non merci/Je l’ai déjà"
+
+#: includes/class-login-designer-customizer.php:127
+msgid "Click the Templates icon at the top left of the preview window to change your template. To customize further, simply click on any element, or it's corresponding shortcut icon, to edit it's styling. "
+msgstr "Cliquez sur l’icône Modèles en haut à gauche de la fenêtre de prévisualisation pour modifier votre modèle. Pour personnaliser davantage, cliquez simplement sur n’importe quel élément, ou c’est l’icône de raccourci correspondant, pour modifier son style."
+
+#: includes/template-login-designer.php:247
+msgid "Lost your password?"
+msgstr "Mot de passe perdu ?"
+
+#: includes/class-login-designer-customizer.php:395
+msgid "Right Center"
+msgstr "Centré à droite"
+
+#: includes/class-login-designer-customizer.php:392
+msgid "Left Center"
+msgstr "Centré à gauche"
+
+#: includes/class-login-designer-customizer.php:398
+msgid "Center Center"
+msgstr "Centré"
+
+#: includes/class-login-designer-templates.php:241
+#: includes/class-login-designer-templates.php:302
+#: includes/settings/labels.php:41
+msgid "Username"
+msgstr "Identifiant"
+
+#: includes/settings/checkbox.php:21
+msgid "Checkbox"
+msgstr "Case à cocher"
+
+#: includes/settings/background.php:24
+msgid "Upload Background"
+msgstr "Téléverser un arrière-plan"
+
+#: includes/template-login-designer.php:107
+#: includes/template-login-designer.php:228
+#: includes/template-password-protected.php:117
+msgid "Log In"
+msgstr "Se connecter"
+
+#: includes/settings/button.php:115 includes/settings/fields.php:144
+#: includes/settings/pp-button.php:116 includes/settings/pp-fields.php:144
+msgid "Padding"
+msgstr "Marge interne"
+
+#: includes/settings/background.php:131 includes/settings/pp-background.php:130
+msgid "Attachment"
+msgstr "Fichier joint"
+
+#: includes/class-login-designer-customizer-output.php:113
+#: includes/settings/labels.php:60 includes/settings/pp-labels.php:33
+#: includes/template-login-designer.php:196
+#: includes/template-password-protected.php:76
+msgid "Password"
+msgstr "Mot de passe"
+
+#: includes/class-login-designer-customizer.php:403
+msgid "Scroll"
+msgstr "Faire défiler"
+
+#: includes/settings/background.php:111 includes/settings/below.php:64
+#: includes/settings/button.php:333 includes/settings/checkbox.php:44
+#: includes/settings/fields.php:385 includes/settings/labels.php:102
+#: includes/settings/pp-background.php:110 includes/settings/pp-button.php:334
+#: includes/settings/pp-checkbox.php:45 includes/settings/pp-fields.php:358
+#: includes/settings/pp-labels.php:85 includes/settings/pp-remember.php:64
+#: includes/settings/remember.php:64
+msgid "Size"
+msgstr "Taille"
+
+#: includes/class-login-designer-customizer.php:145
+msgid "Templates"
+msgstr "Modèles"

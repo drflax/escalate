@@ -1,0 +1,40 @@
+.elementor-120 .elementor-element.elementor-element-668a4ef{--display:flex;}.elementor-120 .elementor-element.elementor-element-3bdd09e{--display:flex;}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );color:var( --e-global-color-primary );}.elementor-120 .elementor-element.elementor-element-7d310dd{text-align:center;}.elementor-120 .elementor-element.elementor-element-7d310dd .elementor-heading-title{font-family:"Gill Sans", Sans-serif;font-size:40px;font-weight:700;color:var( --e-global-color-text );}.elementor-widget-loop-grid .elementor-button{background-color:var( --e-global-color-accent );font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-loop-grid .elementor-pagination{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-loop-grid .e-load-more-message{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-120 .elementor-element.elementor-element-a3fbee6{--grid-columns:1;--grid-row-gap:31px;--load-more-button-align:center;}.elementor-120 .elementor-element.elementor-element-a3fbee6 .elementor-button{background-color:var( --e-global-color-12972d6 );font-family:"Gill Sans", Sans-serif;font-size:22px;font-weight:400;fill:var( --e-global-color-accent );color:var( --e-global-color-accent );}.elementor-120 .elementor-element.elementor-element-d680808{--display:flex;}.elementor-120 .elementor-element.elementor-element-d680808:not(.elementor-motion-effects-element-type-background), .elementor-120 .elementor-element.elementor-element-d680808 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-0c43489 );}.elementor-120 .elementor-element.elementor-element-d45349d{--display:flex;}.elementor-120 .elementor-element.elementor-element-8514890{text-align:center;}.elementor-120 .elementor-element.elementor-element-8514890 .elementor-heading-title{font-family:"Gill Sans", Sans-serif;font-size:40px;font-weight:700;color:var( --e-global-color-accent );}.elementor-120 .elementor-element.elementor-element-807db07{--grid-columns:3;}@media(max-width:1024px){.elementor-120 .elementor-element.elementor-element-a3fbee6{--grid-columns:2;}.elementor-120 .elementor-element.elementor-element-807db07{--grid-columns:2;}}@media(max-width:767px){.elementor-120 .elementor-element.elementor-element-a3fbee6{--grid-columns:1;}.elementor-120 .elementor-element.elementor-element-807db07{--grid-columns:1;}}/* Start custom CSS */.img-badge{
+    color:#fff;
+    position: absolute;
+    bottom: 11px;
+    left:11px;
+    background: #FFCC66;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Gill Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://escalate:8888/wp-content/uploads/2025/03/Gill-Sans.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Gill Sans';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('https://escalate:8888/wp-content/uploads/2025/03/Gill-Sans-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Gill Sans';
+	font-style: italic;
+	font-weight: bold;
+	font-display: auto;
+	src: url('https://escalate:8888/wp-content/uploads/2025/03/Gill-Sans-Bold-Italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Gill Sans';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://escalate:8888/wp-content/uploads/2025/03/Gill-Sans-Italic.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
